@@ -49,14 +49,7 @@ I build scalable backend systems, RESTful APIs, and cloud-deployed applications 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitin0550&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nitin0550&theme=dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin0550&theme=dark&hide_border=true&layout=compact" width="45%" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=nitin0550&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=nitin0550&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin0550&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
